@@ -1,0 +1,14 @@
+data/
+data.zip
+glove/
+log/
+checkpoint_dir/
+output/
+
+.DS_Store
+__pycache__/
+.idea/
+*.pyc
+
+*.pth
+*.ckpt
